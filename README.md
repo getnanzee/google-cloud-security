@@ -1,2 +1,4 @@
 # google-cloud-security
-The repository lists the security best practices in Google Cloud Platform.
+The repository contains knowledge base for maintaining security best practices in Google Cloud Platform.
+
+- IAM Security Best Practice Document
